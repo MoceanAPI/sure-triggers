@@ -25,7 +25,7 @@
 
 ![image2](https://github.com/user-attachments/assets/0ab9c545-11b9-49ce-81ca-ba2f0277ed26)
 
-You can view your connection by clicking on the Mocean app visible under `Apps` in SureTriggers. As shown in the above image.
+You can view your connection by clicking on the Mocean app visible under `Apps` as shown in the above image.
 
 ### Creating workflow
 1. Login to SureTriggers, go to the `Workflows` section and click `Create Workflow` and select `Create from scratch`.
@@ -78,6 +78,7 @@ SureTriggers integration with Mocean allows you to:
 - Enter brand name, receiver number, sender name, code length and pin validity.
 - Click on `Continue`.
 - Click on `Test Action`, a code will be sent to be the receiver phone.
+![image](https://github.com/user-attachments/assets/04befd55-c74c-4c73-9686-c5ddd2125928)
 - Click `Save`
 - Click on `Publish`, to change status to `Active`.
 ![image](https://github.com/user-attachments/assets/e98ee4f0-adbd-46ad-8476-afdca010997b)
